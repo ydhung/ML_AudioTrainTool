@@ -2,4 +2,4 @@
 
   File In and File Out, not about "Sensor" and "Real-Time".
 
-  HMM
+  Algorithms: HMM
